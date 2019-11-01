@@ -9,11 +9,11 @@
 
 
 ### 常用集合
-- [ArrayList/Vector](https://github.com/li-xiangdong/native/master/MD/ArrayList.md)
-- [LinkedList](https://github.com/li-xiangdong/native/master/MD/LinkedList.md)
-- [HashMap](https://github.com/li-xiangdong/native/master/MD/HashMap.md)
-- [HashSet](https://github.com/li-xiangdong/native/master/MD/collection/HashSet.md)
-- [LinkedHashMap](https://github.com/li-xiangdong/native/master/MD/collection/LinkedHashMap.md)
+- [ArrayList/Vector](https://github.com/li-xiangdong/native/blob/master/docs/MD/ArrayList.md)
+- [LinkedList](https://github.com/li-xiangdong/native/blob/master/docs/MD/LinkedList.md)
+- [HashMap](https://github.com/li-xiangdong/native/blob/master/docs/MD/HashMap.md)
+- [HashSet](https://github.com/li-xiangdong/native/blob/master/docs/MD/collection/HashSet.md)
+- [LinkedHashMap](https://github.com/li-xiangdong/native/blob/master/docs/MD/collection/LinkedHashMap.md)
 
 > lxdcloud@163.com
 <br/>
